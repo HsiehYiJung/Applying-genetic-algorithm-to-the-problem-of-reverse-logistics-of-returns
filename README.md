@@ -41,6 +41,12 @@ Model design
 從最近的集中返回中心的行駛時間。
 4. 初次收集時退回產品的頻率點應合併以最小化運輸成本，同時避免了退貨過程中的延誤？
 5、初始收款點多少，集中歸還需要中心來最大限度地減少與產品退貨相關的客戶麻煩，同時最大限度地降低成本處理退貨？
+
 ![圖片1](https://user-images.githubusercontent.com/97608894/149436577-989a8709-0002-472b-961e-f5de9007f51a.png)
+
 ![圖片2](https://user-images.githubusercontent.com/97608894/149436791-05118265-1dac-48b0-8532-7d04d3d3976c.png)
+
+![圖片4](https://user-images.githubusercontent.com/97608894/149436918-10fc31db-db29-43f5-9280-0a272ce1cad8.png)
+
+![圖片3](https://user-images.githubusercontent.com/97608894/149436933-e3d3993c-7f64-4beb-952f-18b0c83750e6.png)
 
