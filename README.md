@@ -55,7 +55,16 @@ Model design
 ![圖片3](https://user-images.githubusercontent.com/97608894/149436933-e3d3993c-7f64-4beb-952f-18b0c83750e6.png)
 
 Conclusion
+
 得到的最佳解如下
+該模型的求解程序考慮許多在初始收集點和集中返回中心之間，相互作用的逆向物流配置。
+經過以上的計算可應用於
+1.物流中心設置
+2.蝦皮店到店 
+3.售後服務中心 (例:退貨)
+
+根據最小成本的方案去選擇一個區域的設置地點
+
 ![圖5](https://user-images.githubusercontent.com/97608894/149613596-b7a96fa0-a860-4cff-9985-2bcf128f8353.jpg)
 
 位置顯示圖
