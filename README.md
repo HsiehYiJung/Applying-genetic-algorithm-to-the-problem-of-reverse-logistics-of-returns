@@ -54,3 +54,7 @@ Model design
 
 ![圖片3](https://user-images.githubusercontent.com/97608894/149436933-e3d3993c-7f64-4beb-952f-18b0c83750e6.png)
 
+Conclusion
+![圖5](https://user-images.githubusercontent.com/97608894/149613596-b7a96fa0-a860-4cff-9985-2bcf128f8353.jpg)
+![圖6](https://user-images.githubusercontent.com/97608894/149613598-f7c03458-bc2a-4e00-b95f-2c33e60479e0.jpg)
+
